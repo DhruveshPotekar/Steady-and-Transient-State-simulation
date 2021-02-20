@@ -15,7 +15,7 @@ Bottom Boundary = 900 K\
 Left Boundary = 400 K\
 Right Boundary = 800 K
       
-##**For Steady-State**
+**For Steady-State**
 
 By Jacobi
 
@@ -35,4 +35,4 @@ Comparing the three
 
 From the above bar graph of steady-state heat conduction, the fastest simulation/lower number of iterations is achieved using successive over relaxation(SOR) iterative solver which used 94 iterations
 
-##**For Unsteady-State**
+**For Unsteady-State**
