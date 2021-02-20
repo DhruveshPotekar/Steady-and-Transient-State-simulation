@@ -33,15 +33,15 @@ For Steady State
 
 By Jacobi
 
-<img src="https://user-images.githubusercontent.com/74448981/108591048-aa9d8e00-738c-11eb-8b4a-57342cf84b17.JPG" height="500" width="600">
+<img src="https://user-images.githubusercontent.com/74448981/108591048-aa9d8e00-738c-11eb-8b4a-57342cf84b17.JPG" height="300" width="400">
 
 By Gauss seidel
 
-<img src="https://user-images.githubusercontent.com/74448981/108591046-a96c6100-738c-11eb-8866-65be3ce72d52.JPG" height="500" width="600">
+<img src="https://user-images.githubusercontent.com/74448981/108591046-a96c6100-738c-11eb-8866-65be3ce72d52.JPG" height="300" width="400">
 
 By Successive over relaxation
 
-<img src="https://user-images.githubusercontent.com/74448981/108591049-ab362480-738c-11eb-96fe-ad4853d4c1f7.JPG" height="500" width="600">
+<img src="https://user-images.githubusercontent.com/74448981/108591049-ab362480-738c-11eb-96fe-ad4853d4c1f7.JPG" height="300" width="400">
 
 Comparing the three
 
