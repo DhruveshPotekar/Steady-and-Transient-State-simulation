@@ -31,16 +31,16 @@ k2=frac{α*dt}{dy^2}
 
 For Steady State
 
-   By Jacobi
-   <img src="https://user-images.githubusercontent.com/74448981/108591048-aa9d8e00-738c-11eb-8b4a-57342cf84b17.JPG" height="500" width="600">
+By Jacobi
+<img src="https://user-images.githubusercontent.com/74448981/108591048-aa9d8e00-738c-11eb-8b4a-57342cf84b17.JPG" height="500" width="600">
 
-   By Gauss seidel 
-   <img src="https://user-images.githubusercontent.com/74448981/108591046-a96c6100-738c-11eb-8866-65be3ce72d52.JPG" height="500" width="600">
+By Gauss seidel 
+<img src="https://user-images.githubusercontent.com/74448981/108591046-a96c6100-738c-11eb-8866-65be3ce72d52.JPG" height="500" width="600">
 
-   By Successive over relaxation
-   <img src="https://user-images.githubusercontent.com/74448981/108591049-ab362480-738c-11eb-96fe-ad4853d4c1f7.JPG" height="500" width="600">
+By Successive over relaxation
+<img src="https://user-images.githubusercontent.com/74448981/108591049-ab362480-738c-11eb-96fe-ad4853d4c1f7.JPG" height="500" width="600">
 
-   Comparing the three 
-   <img src="https://user-images.githubusercontent.com/74448981/108591050-ab362480-738c-11eb-9ad9-56e63f853450.JPG" height="500" width="600">
-   
-   from the above bar graph of steady-state heat conduction, the fastest simulation/lower number of iterations is achieved using successive over relaxation(SOR) iterative solver which used 94 iterations
+Comparing the three 
+<img src="https://user-images.githubusercontent.com/74448981/108591050-ab362480-738c-11eb-9ad9-56e63f853450.JPG" height="500" width="600">
+
+From the above bar graph of steady-state heat conduction, the fastest simulation/lower number of iterations is achieved using successive over relaxation(SOR) iterative solver which used 94 iterations
