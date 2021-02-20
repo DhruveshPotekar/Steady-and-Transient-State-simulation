@@ -63,6 +63,6 @@ By Successive over relaxation
 
 From above two bar graphs of  transient state, we can see that the fastest simulation/low number of iterations is achieved by using explicit approach(no. of iteration =1401) 
 
-**Conclusion**
+## **Conclusion**
 
 Therefore, we conclude that the fastest simulation in steady-state is achieved by successive over relaxation (SOR) method and fastest simulation in transient state is achieved by explicit approach.
